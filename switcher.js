@@ -1,0 +1,1 @@
+var clickstate = 0

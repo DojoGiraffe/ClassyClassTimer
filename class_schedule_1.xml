@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class_schedule>
+    <sched_1>
+        <class_period name="Period 1" start_time="00:00" end_time="00:00" />
+        <class_period name="Period 2" start_time="00:00" end_time="00:00" />
+        <class_period name="Advisory" start_time="00:00" end_time="00:00" />
+        <class_period name="Period 3" start_time="00:00" end_time="00:00" />
+        <class_period name="Tutorial" start_time="00:00" end_time="00:00" />
+        <class_period name="MS Lunch" start_time="00:00" end_time="00:00" />
+        <class_period name="US Lunch" start_time="00:00" end_time="00:00" />
+        <class_period name="Period 4" start_time="00:00" end_time="00:00" />
+        <class_period name="Period 5" start_time="00:00" end_time="00:00" />
+    </sched_1>
+    <sched_2>
+        <class_period name="Period 1" start_time="00:00" end_time="00:00" />
+        <class_period name="Period 2" start_time="00:00" end_time="00:00" />
+        <class_period name="Advisory" start_time="00:00" end_time="00:00" />
+        <class_period name="Period 3" start_time="00:00" end_time="00:00" />
+        <class_period name="MS Lunch" start_time="00:00" end_time="00:00" />
+        <class_period name="US Lunch" start_time="00:00" end_time="00:00" />
+        <class_period name="Period 4" start_time="00:00" end_time="00:00" />
+        <class_period name="Period 5" start_time="00:00" end_time="00:00" />
+    </sched_2>
+    <sched_3>
+        <class_period name="Period 1" start_time="00:00" end_time="00:00" />
+        <class_period name="Period 2" start_time="00:00" end_time="00:00" />
+        <class_period name="Advisory" start_time="00:00" end_time="00:00" />
+        <class_period name="Period 3" start_time="00:00" end_time="00:00" />
+        <class_period name="MS Lunch" start_time="00:00" end_time="00:00" />
+        <class_period name="US Lunch" start_time="00:00" end_time="00:00" />
+        <class_period name="Period 4" start_time="00:00" end_time="00:00" />
+        <class_period name="Period 5" start_time="00:00" end_time="00:00" />
+    </sched_3>
+    <sched_4>
+        <class_period name="Period 1" start_time="00:00" end_time="00:00" />
+        <class_period name="Period 2" start_time="00:00" end_time="00:00" />
+        <class_period name="Advisory" start_time="00:00" end_time="00:00" />
+        <class_period name="Period 3" start_time="00:00" end_time="00:00" />
+        <class_period name="MS Lunch" start_time="00:00" end_time="00:00" />
+        <class_period name="US Lunch" start_time="00:00" end_time="00:00" />
+        <class_period name="Period 4" start_time="00:00" end_time="00:00" />
+        <class_period name="Period 5" start_time="00:00" end_time="00:00" />
+    </sched_4>
+</class_schedule>

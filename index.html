@@ -2,23 +2,59 @@
 <html>
 <head>
 	<title>Class Countdown Timer</title>
-	<meta charset="UTF-8">
+	<meta charset="UTF-8" lang="en">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" href="style.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Nunito+Sans&family=Pacifico&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@700&display=swap" rel="stylesheet">
+	<link href="style.css" rel="stylesheet" type="text/css">
+	<link href="app.js" type="js">
+	<link href="fun.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 	<header>
-		<h1>Class Countdown Timer</h1>
+		<h1>Classy Class Countdown Timer</h1>
+		<button id="futton" type="submit" name="button" value="null" onclick="function switcher()"></button>
+		<link href="fun.css" rel="stylesheet" type="text/css">
+		<input href="fun.css" id="futton" type="submit" name="button" value="F U N" onclick="function switcher()">
+		<script id="animate">
+		function animate()
+			.scale-ip-center {
+				-webkit-animation: scale-up-center 0.5s ease-in-out infinite alternate-reverse both;
+						animation: scale-up-center 0.5s ease-in-out infinite alternate-reverse both;
+			}
+		</script>
+
+		<!--
+		<input id="futton" type="submit" name="button" value="F U N" onclick="Function(animate)">
+		-->
+		<!--
+		<script id="animate">
+			.scale-up-center { 
+				-webkit-animation: scale-up-center 0.5s ease-in-out infinite alternate-reverse both;
+						animation: scale-up-center 0.5s ease-in-out infinite alternate-reverse both;
+			}
+		</script>
+		-->
+		<!--
+		<button id=".btn"></button>
+		<input id=".btn" type="submit" name="button" value="" onclick="myFunction();"/>
+		-->
+
 	</header>
 	<main>
+		<script src="https://code.jquery.com/jquery-3.6.4.min.js" integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script>
 		<div id="timer">
-			<h2>Period 1</h2>
+			<!-- h2 period_name as a js plug. Add a js function to pipe the current period to the header.-->
+			<!--<h2 id="period_name"></h2>-->
+			<h2>period_name</h2>
 			<p id="countdown">00:00</p>
 		</div>
 	</main>
 	<footer>
 		<p>&copy; 2023 DojoGiraffe</p>
-		<p>Made with &#128153; in A Place</p>
+		<p>Made with &#128153; in the classroom of Andrew Deskins</p>
 	</footer>
 	<script src="app.js"></script>
 </body>
